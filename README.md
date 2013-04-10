@@ -1,4 +1,4 @@
-satzung
-=======
+Formalfoo
+=========
+Satzung, Mitgliedsantrag und Beitragsordnung des OpenLab e.V.
 
-Satzung des OpenLab e.V.
